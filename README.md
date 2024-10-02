@@ -2,7 +2,7 @@
 
 test
 
-<a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="https://drive.google.com/uc?export=view&id=1SxjhAJIV6Epx5XZS_IlogLmfCQhgOAUM" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1SxjhAJIV6Epx5XZS_IlogLmfCQhgOAUM"><img src="https://drive.google.com/uc?export=view&id=1SxjhAJIV6Epx5XZS_IlogLmfCQhgOAUM" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <!--
 **trainguy786/trainguy786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
