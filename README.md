@@ -1,13 +1,12 @@
 ## Hi there 👋
 
 # A few things about me
-I'm Zaid. I'm a University student studying electronic engineering at QMUL. I take on projects such as maintaining my own cloud infrastructure (Azure, Proxmox), bash programming and automating in python. I'm currently undertaking the google cyber security course, discovering tools such as Wireshark, Wazuh, hive etc. During my year, I've had the chance to show off my interpersonal skills via tutoring GCSE students and  attend events and fairs like Tech Show London in Excel. Furthermore, I've achieved certifications such as Microsoft Azure Fundamentals and working. I aspire to work in Cloud Computing because of my ability to analyse situations carefully, my familiarity with Virtual Machines and virtual networks, automating my workflow efficiently via Ansible playbooks / Cron jobs and monitoring critical systems. 
+I'm Zaid. I'm a University student studying electronic engineering at QMUL. I take on projects such as maintaining my own cloud infrastructure (Azure, Proxmox), bash programming and automating in python. I'm currently undertaking the google cyber security course, discovering tools such as Wireshark, Wazuh, hive etc. During my year, I've had the chance to show off my interpersonal skills via tutoring GCSE students and  attend events and fairs like Tech Show London in Excel. Furthermore, I've achieved certifications such as Microsoft Azure Fundamentals. I aspire to work in Cloud Computing because of my ability to analyse situations carefully and my familiarity with Virtual Machines. Some examples of projects are automating my workflows efficiently via Ansible playbooks / Cron jobs and monitoring critical systems. 
 
 	As of 2025, I have plans to obtain CompTIA A+ and Sec+ in the future 
 # Skills & Certifications:
 My currently acquired certification are:
 - Microsoft Azure Fundamentals 
-- (Working towards) CompTIA A+
 
 # Projects
 ## Wireless USB hub using a RPi
